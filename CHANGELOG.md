@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## 4.6.2 - 2026-01-30
+
+### What's Changed
+
+* build(deps-dev): bump barryvdh/laravel-debugbar from 4.0.3 to 4.0.5 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/mfakitv4/pull/23
+
+**Full Changelog**: https://github.com/jeffersongoncalves/mfakitv4/compare/4.6.1...4.6.2
+
 ## 4.6.1 - 2026-01-28
 
 ### What's Changed
