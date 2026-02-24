@@ -9,6 +9,9 @@
         "filament-starter-kit",
         "laravel",
         "filament",
+        "filament-v4",
+        "livewire",
+        "tailwindcss",
         "multi-panel",
         "mfa",
         "multi-factor-authentication",
@@ -17,11 +20,8 @@
         "whatsapp-connector",
         "profile-management",
         "edit-profile",
-        "livewire",
         "admin-panel",
-        "app-panel",
-        "starter",
-        "template"
+        "app-panel"
     ],
     "license": "MIT",
     "require": {
