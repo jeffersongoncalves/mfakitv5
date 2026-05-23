@@ -2360,16 +2360,16 @@
         },
         {
             "name": "jeffersongoncalves/filament-multifactor-whatsapp",
-            "version": "2.0.2",
+            "version": "2.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jeffersongoncalves/filament-multifactor-whatsapp.git",
-                "reference": "fcee342d3d2cd9899f8c9cb69ca524fc06482c9a"
+                "reference": "f030122ff406035366aaadbf1327bb0bdca67119"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jeffersongoncalves/filament-multifactor-whatsapp/zipball/fcee342d3d2cd9899f8c9cb69ca524fc06482c9a",
-                "reference": "fcee342d3d2cd9899f8c9cb69ca524fc06482c9a",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-multifactor-whatsapp/zipball/f030122ff406035366aaadbf1327bb0bdca67119",
+                "reference": "f030122ff406035366aaadbf1327bb0bdca67119",
                 "shasum": ""
             },
             "require": {
@@ -2382,14 +2382,14 @@
                 "larastan/larastan": "^3.0",
                 "laravel/pint": "^1.21",
                 "orchestra/testbench": "^10.0|^11.0",
-                "pestphp/pest": "^3.0",
-                "pestphp/pest-plugin-laravel": "^3.0"
+                "pestphp/pest": "^3.0|^4.0",
+                "pestphp/pest-plugin-laravel": "^3.0|^4.0"
             },
             "type": "library",
             "extra": {
                 "laravel": {
                     "providers": [
-                        "JeffersonGoncalves\\Filament\\MultiFactorWhatsApp\\MultiFactorWhatsappServiceProvider"
+                        "JeffersonGoncalves\\Filament\\MultiFactorWhatsApp\\MultiFactorWhatsAppServiceProvider"
                     ]
                 }
             },
@@ -2430,7 +2430,7 @@
             ],
             "support": {
                 "issues": "https://github.com/jeffersongoncalves/filament-multifactor-whatsapp/issues",
-                "source": "https://github.com/jeffersongoncalves/filament-multifactor-whatsapp/tree/2.0.2"
+                "source": "https://github.com/jeffersongoncalves/filament-multifactor-whatsapp/tree/2.0.3"
             },
             "funding": [
                 {
@@ -2438,7 +2438,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-03-04T03:16:45+00:00"
+            "time": "2026-05-23T02:14:28+00:00"
         },
         {
             "name": "jenssegers/agent",
